@@ -1,8 +1,8 @@
 # autostart
-autostart of :\n
-- tightVNC server\n
-- azerty keybord\n
-- temp2table script \n
+autostart of :
+- tightVNC server
+- azerty keybord
+- temp2table script
 
 # Installation
 cd .config/autostart
