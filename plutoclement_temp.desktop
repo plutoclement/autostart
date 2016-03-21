@@ -1,0 +1,6 @@
+#!/bin/sh
+[Desktop Entry]
+Type=Application
+Name=temp
+Exec=sudo /home/jeedom/temp2table/temp & 
+StartupNotify=true

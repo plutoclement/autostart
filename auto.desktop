@@ -1,0 +1,6 @@
+#!/bin/sh
+[Desktop Entry]
+Type=Application
+Name=azerty
+Exec=setxkbmap fr
+StartupNotify=true

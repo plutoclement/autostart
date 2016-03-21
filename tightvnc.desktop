@@ -1,0 +1,6 @@
+#!/bin/sh
+[Desktop Entry]
+Type=Application
+Name=tightVNC
+Exec=vncserver :1
+StartupNotify=true
