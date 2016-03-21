@@ -5,6 +5,6 @@ autostart of :
 - temp2table script
 
 # Installation
-cd .config/autostart                                
+cd /home/jeedom/.config/autostart                                
 git clone https://github.com/plutoclement/autostart.git
 
